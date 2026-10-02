@@ -4,6 +4,8 @@
 
 目标体验：**停说 → 开说** 端到端延迟尽量压到 **800ms 以内**（与网络/模型体积相关，见下文实测）。
 
+![Voice Agent 功能海报](docs/voice-agent-features-poster.jpg)
+
 ---
 
 ## 方案概览
