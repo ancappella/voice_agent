@@ -1,0 +1,8 @@
+# Pipecat realtime voice pipeline
+# Python >= 3.11 required (runner uses http.HTTPMethod)
+pipecat-ai[webrtc,silero,google,piper,mlx-whisper]==0.0.108
+pipecat-ai-small-webrtc-prebuilt>=0.0.5
+fastapi>=0.115.0
+uvicorn>=0.30.0
+python-dotenv>=1.0.0
+loguru>=0.7.0

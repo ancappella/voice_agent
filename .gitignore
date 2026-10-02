@@ -1,0 +1,13 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+models/
+*.onnx
+*.onnx.json
+*.wav
+.pytest_cache/
+.idea/
+.vscode/
